@@ -1,0 +1,35 @@
+body{
+	font-family: 'Quicksand', sans-serif;
+}
+
+.jumbotron h1{
+	font-size:90px;
+}
+
+img{
+	width:200px;
+	height:150px;
+	padding-bottom: 10px;
+}
+
+div#animal1.col-sm-3.col-xs-6{
+	font-size:17px;
+}
+
+div#animal2.col-sm-3.col-xs-6{
+	font-size:17px;
+}
+
+div#animal3.col-sm-3.col-xs-6{
+	font-size:17px;
+}
+
+div.jumbotron{
+	padding-left: 85px;
+	background: url('img/pokemon.png') no-repeat center left;
+
+}
+
+form#newAnimalForm.form-horizontal{
+	width: 510px
+}
